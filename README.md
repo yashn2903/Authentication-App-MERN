@@ -26,7 +26,7 @@ The goal of this project is to understand the complete data flow from client →
 **Backend:**
 ```bash
   npm install
-  npm i express cors dotenv bcrypt body-parser joi jsonwebtoken mongoose
+  npm install bcrypt cors dotenv express jsonwebtoken mongoose multer nodemon validator
 ```
 
 ## Environment Variables
